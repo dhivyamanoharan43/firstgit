@@ -13,6 +13,9 @@ public abstract class Indian {
 	
 	
 	
+	
+	
+	
 	public void voterId() {
 		System.out.println("www.voterid.com");
 	}
